@@ -1,9 +1,11 @@
 # Singular-Spectrum-Analysis-with-Mathematica
-Singular Spectrum Analysis with Mathematica
 
 ref:
 Singular Spectrum Analysis for Time Series (SpringerBriefs in Statistics) 
  Nina Golyandina, Anatoly Zhigljavsky, 2020
+
+Singular Spectrum Analysis with Mathematica
+
 
 
 Singular Spectrum Analysis
